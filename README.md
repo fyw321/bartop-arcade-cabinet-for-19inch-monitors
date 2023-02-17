@@ -19,3 +19,18 @@ SketchUp图纸地址：https://app.sketchup.com/share/tc/asia/7rZc8_e-n5c?stoken
 设备元件：戴尔19寸显示屏（或者其他尺寸类似的显示屏），树莓派（或者其他体积差别不大的设备，比如工控机、NUC、潘多拉等），电源，插线板，小音箱，连接线材,摇杆以及按钮，投币器，灯
 
 因为我自己还没有开始实际搭建，所以以上一切暂时停留在纸面讨论，也不为图纸尺寸错误造成的后果负任何责任。USE AT YOUR OWN RISK.
+
+效果图：
+![Bartop Arcade_preview_1](https://user-images.githubusercontent.com/9860400/219535178-d6b8fc6e-8f71-4dce-8c98-d0a55bdfb859.png)
+
+![Bartop Arcade_preview_2](https://user-images.githubusercontent.com/9860400/219535201-4aa61ac3-80ac-49dd-865e-e6e3a3ced9e7.png)
+
+主体：
+![Bartop Arcade_main](https://user-images.githubusercontent.com/9860400/219535277-e468e64e-249e-4074-83a5-f66ed7feedff.png)
+
+背部：
+![Bartop Arcade_back](https://user-images.githubusercontent.com/9860400/219535303-00ced027-d927-4e90-bd8b-100341aa871b.png)
+
+侧板：
+![Bartop Arcade_side](https://user-images.githubusercontent.com/9860400/219535320-67b8cc07-b6c2-47b5-a240-e346f6d5956f.png)
+
